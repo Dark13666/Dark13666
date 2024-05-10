@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Dark13666
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Python
+- Meu nome é Luiz
+- Tenho conhecimento em HTML
+- Estou aprendendo Python e C
+- Estou Cursando Engenharia da Computação
 
 <!---
 Dark13666/Dark13666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
